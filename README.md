@@ -24,11 +24,11 @@ The spread of coronavirus in a population of 10000 persons where at first 10 peo
 5. Recovered (R)
 
 ### Governing differential equations:
-* $ dS/dt = -cB(I/(S+E+I+M+R))S $
-* $ dE/dt = cB(I/(S+E+I+M+R))S - aE$
-* $ dI/dt = aE - gI $
-* $ dM/dt = gI - wM $
-* $ dR/dt = wM $
+* $dS/dt = -cB(I/(S+E+I+M+R))S$
+* $dE/dt = cB(I/(S+E+I+M+R))S - aE$
+* $dI/dt = aE - gI$
+* $dM/dt = gI - wM$
+* $dR/dt = wM$
 
 ### Solution plot:
 
