@@ -8,7 +8,7 @@ The spread of coronavirus in a population of 10000 persons where at first 10 peo
 * The effect of the change of each parameter is investigated.
 
 
-Parameters that affect spread of the virus:
+### Parameters that affect spread of the virus:
 1. Encounters per day (c)
 2. Transmission probability per encounter (B)
 3. Rate at which infected person becomes infectious per day (a)
@@ -16,21 +16,21 @@ Parameters that affect spread of the virus:
 4. Recovery rate (w)
 5. Hospital beds (AB)
 
-Sub groups of population:
+### Sub groups of population:
 1. Susceptibles (S)
 2. Exposed (E)
 3. Infected (I)
 4. Medically symptomatic (M)
 5. Recovered (R)
 
-Governing differential equations:
+### Governing differential equations:
 * $ dS/dt = -cB(I/(S+E+I+M+R))S $
 * $ dE/dt = cB(I/(S+E+I+M+R))S - aE$
 * $ dI/dt = aE - gI $
 * $ dM/dt = gI - wM $
 * $ dR/dt = wM $
 
-Solution plot:
+### Solution plot:
 
 <p align="center">
   <img src="https://github.com/edizferit/Modeling_the_Spread_of_a_Virus/blob/main/figures/preview.jpg?raw=true" width="50%">
