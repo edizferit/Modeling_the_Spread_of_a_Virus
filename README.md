@@ -33,7 +33,7 @@ Governing differential equations:
 Solution plot:
 
 <p align="center">
-  <img src="https://github.com/edizferit/Modeling-the-Spread-of-a-Virus/blob/main/figures/preview.jpg?raw=true" width="50%">
+  <img src="https://github.com/edizferit/Modeling_the_Spread_of_a_Virus/blob/main/figures/preview.jpg?raw=true" width="50%">
 </p>
 
 
