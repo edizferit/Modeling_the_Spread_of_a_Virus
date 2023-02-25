@@ -33,7 +33,7 @@ The spread of coronavirus in a population of 10000 persons where at first 10 peo
 ### Solution plot:
 
 <p align="center">
-  <img src="https://github.com/edizferit/Modeling_the_Spread_of_a_Virus/blob/main/figures/preview.jpg?raw=true" width="50%">
+  <img src="https://github.com/edizferit/Modeling_the_Spread_of_a_Virus/blob/main/figures/preview.jpg?raw=true" width="80%">
 </p>
 
 
