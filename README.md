@@ -1,6 +1,6 @@
 # Modeling the Spread of a Virus
 
-A project for Boğaziçi University's **Computer Applications in Mechanical Engineering** (ME303) class.
+A project for **Boğaziçi University's Computer Applications in Mechanical Engineering** (ME303) class.
 
 The spread of coronavirus in a population of 10000 persons where at first 10 people are exposed is mathematically modeled with first order differential equations and simulated for 100 days.
 
